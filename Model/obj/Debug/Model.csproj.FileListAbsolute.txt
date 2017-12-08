@@ -1,0 +1,7 @@
+C:\Users\huanx\source\repos\CodingTest\Model\bin\Debug\Model.dll
+C:\Users\huanx\source\repos\CodingTest\Model\bin\Debug\Model.pdb
+C:\Users\huanx\source\repos\CodingTest\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\huanx\source\repos\CodingTest\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\huanx\source\repos\CodingTest\Model\obj\Debug\Model.dll
+C:\Users\huanx\source\repos\CodingTest\Model\obj\Debug\Model.pdb
+C:\Users\huanx\source\repos\CodingTest\Model\bin\Debug\System.Data.SQLite.dll

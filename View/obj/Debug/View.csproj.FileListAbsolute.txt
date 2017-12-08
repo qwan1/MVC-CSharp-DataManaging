@@ -1,0 +1,14 @@
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\View.dll
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\View.pdb
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.View1.resources
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.dll
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.pdb
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\Controller.dll
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\Model.dll
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\System.Data.SQLite.dll
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\Controller.pdb
+C:\Users\huanx\source\repos\CodingTest\View\bin\Debug\Model.pdb
+C:\Users\huanx\source\repos\CodingTest\View\obj\Debug\View.Properties.Resources.resources
